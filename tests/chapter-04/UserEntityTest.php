@@ -1,8 +1,7 @@
 <?php
 declare(strict_types=1);
 use PHPUnit\Framework\TestCase;
-use User\UserEntity;
-#require_once 'UserEntity.php';
+require_once 'src/chapter-04/UserEntity.php';
 
 class UserEntityTest extends TestCase
 {

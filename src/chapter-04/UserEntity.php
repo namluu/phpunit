@@ -1,6 +1,4 @@
 <?php
-namespace \User;
-
 class UserEntity
 {
     public $userId;

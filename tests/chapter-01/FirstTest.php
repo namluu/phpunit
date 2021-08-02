@@ -11,8 +11,8 @@ class FirstTest extends TestCase
 
     public function testSubtraction()
     {
-        //$this->assertTrue(0.17 == (1 - 0.83));
-        $this->assertEquals(0.17, 1 - 0.83);
+        $this->assertTrue(0.17 == (1 - 0.83));
+        //$this->assertEquals(0.17, 1 - 0.83);
     }
 
     public function testMultiplication()
